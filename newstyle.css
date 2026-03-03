@@ -39,14 +39,8 @@ a {
     
 }
 
-.header .container {
-    justify-content: space-between;
-    align-items: center;
-}
-
 .logo {
-    align-items: center;
-    font-size: 24px;
+   font-size: 24px;
     font-weight: bold;
 }
 
@@ -74,12 +68,6 @@ a {
     background: linear-gradient(135deg, #7ac142, #6ab04c);
     padding: 80px 0;
     color: white;
-}
-
-.hero-supplement .container {
-   
-    justify-content: space-between;
-    align-items: center;
 }
 
 .hero-content {
@@ -113,21 +101,10 @@ a {
 
 }
 
-.hero-products {
-    
-    
-    text-align: center;
-}
-
 .features-bar {
     padding: 60px 0;
     margin-top: -40px;
     position: relative;
-}
-
-.features-bar .container {
-    
-    justify-content: space-between;
 }
 
 .feature-box {
@@ -149,12 +126,6 @@ a {
     padding: 100px 0;
     background: #f9f9f9;
 }
-
-.why-choose .container {
-    
-    align-items: center;
-}
-
 
 .why-content {
     width: 55%;
@@ -186,14 +157,6 @@ a {
     padding: 80px 0;
     color: white;
 }
-
-.nutrition-banner .container {
-    
-    align-items: center;
-}
-
-
-
 .nutrition-image img {
     border-radius: 15px;
 }
@@ -223,8 +186,7 @@ a {
 }
 
 .section-heading {
-    text-align: center;
-    font-size: 36px;
+   font-size: 36px;
     margin-bottom: 60px;
     font-weight: bold;
 }
@@ -233,14 +195,8 @@ a {
     color: white;
 }
 
-.products-grid {
-   
-    justify-content: space-between;
-}
-
 .product-item {
     width: 31%;
-    text-align: center;
     background: white;
     padding: 20px;
     border-radius: 10px;
@@ -258,7 +214,6 @@ a {
 
 .feature-item {
     width: 30%;
-    text-align: center;
     margin-bottom: 40px;
     border-radius: 9px;
     
@@ -344,16 +299,9 @@ a {
     margin-right: 20px;
 }
 
-.quantity-cart {
-    
-    align-items: center;
-}
-
 .quantity-selector {
-    display: flex;
     border: 1px solid #ddd;
     border-radius: 5px;
-    
     margin-right: 20px;
 }
 
@@ -366,7 +314,6 @@ a {
 
 .quantity-selector input {
     width: 60px;
-    text-align: center;
     border: none;
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
@@ -386,11 +333,6 @@ a {
 .contact-section {
     padding: 100px 0;
     background: #f9f9f9;
-}
-
-.contact-wrapper {
-    
-    justify-content: space-between;
 }
 
 .contact-info {
@@ -458,11 +400,6 @@ a {
     min-height: 120px;
 }
 
-.form-row {
-    
-    justify-content: space-between;
-}
-
 .form-row .form-group {
     width: 48%;
 }
@@ -485,8 +422,6 @@ a {
 }
 
 .footer-grid {
-  
-    justify-content: space-between;
     margin-bottom: 40px;
 }
 
@@ -495,8 +430,6 @@ a {
 }
 
 .footer-logo {
-    
-    align-items: center;
     font-size: 24px;
     font-weight: bold;
     color: white;
